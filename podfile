@@ -1,0 +1,9 @@
+
+pod 'BaiduMapKit'
+ platform :ios, '7.0'
+ target "LwssonDB" do
+ pod 'SDWebImage', '~> 3.8.1'
+ pod 'AFNetworking', '~> 3.1.0'
+pod 'UMengSocialCOM', '~> 5.2.1'
+ end
+
